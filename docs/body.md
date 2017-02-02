@@ -2,7 +2,7 @@ The text contained in the `<body>` element of your document is visible to users 
 
 # How do I fix this?
 
-First, **Passmarked** uses language attribute to pick the language which to spell check against. Ensure that the correct language is set in this regard.
+First, **Passmarked** uses the language attribute to pick the language which to spell check against. Ensure that the correct language is set in this regard.
 
 Then edit the source code that generates the HTML page containing the spelling error.
 
